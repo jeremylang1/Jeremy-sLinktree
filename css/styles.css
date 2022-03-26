@@ -1,5 +1,5 @@
 body {
-    background-image: url("images/cozy.gif");
+    background-image: url("/images/cozy.gif");
 }
 
 .buttons {
@@ -8,7 +8,7 @@ body {
 }
 
 .profile {
-    background-image: url("images/rick.png");
+    background-image: url("/images/rick.png");
     background-size: cover;
     margin: auto;
     width: 30%;

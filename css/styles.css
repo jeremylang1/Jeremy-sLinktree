@@ -8,6 +8,7 @@ body {
 }
 
 .profile {
+    background-image: url("/images/rick.png");
     background-size: cover;
     margin: auto;
     width: 30%;
